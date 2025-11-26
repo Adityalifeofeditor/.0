@@ -1,0 +1,11 @@
+PyroFork==2.3.32
+motor==3.5.1
+python-dotenv==1.0.1
+google-genai 
+
+Flask
+gunicorn
+Jinja2
+werkzeug
+itsdangerous
+aiohttp
